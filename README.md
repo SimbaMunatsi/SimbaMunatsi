@@ -1,73 +1,90 @@
 # 👋 Hi, I'm Simbarashe Munatsi
-🚀 AI Engineer | Agentic AI Engineer | RAG Systems | LLM Applications  
-💡 I build production-ready AI systems — not just demos
+
+🚀 **Agentic AI Engineer | AI Engineer | Production RAG Systems**  
+💡 I build **real-world AI products that are reliable, observable, and deployable at scale**
 
 ---
 
 ## ⚡ About Me
 
-I design and build **scalable backend systems powered by AI**, with strong focus on:
+I am an **AI Engineer** focused on building **production-grade LLM applications, agentic AI systems, and scalable backend services**.
 
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Systems
-- LLM integrations & guardrails
-- FastAPI microservices
-- Evaluation pipelines for AI reliability
-- Production architectures
-- System design for AI systems
-- Real-world deployable solutions
+My engineering style is centered around:
 
----
+- 🧠 **Retrieval-Augmented Generation (RAG)**
+- 🤖 **Agentic AI workflows with LangGraph**
+- ⚙️ **FastAPI backend architecture**
+- 🛡️ **Guardrails, evaluation, and observability**
+- 📊 **Persistent memory & historical benchmarking**
+- 🚀 **Deployable AI products, not notebook demos**
 
-## 🔥 Featured Work
-
-### 🧠 Production RAG System - Bumbiro AI
-- Built end-to-end RAG pipeline (**LangChain + pgvector + OpenAI**)
-- Indexed 1,000+ document chunks for semantic retrieval
-- Implemented **RAGAS + DeepEval evaluation pipelines**
-- Added **prompt injection detection & guardrails**
-- Deployed via **AWS ECS Express Mode**
-- ⚡ Avg response latency: < 3s
+I enjoy translating complex AI workflows into **clean backend systems, polished user experiences, and recruiter-ready products**.
 
 ---
 
-### 📋 Team Task Manager API
-- Multi-user task management system (**FastAPI + PostgreSQL**)
-- Features:
-  - JWT Authentication
-  - Teams & role-based access control
-  - Full CRUD operations
-- Clean modular architecture + test coverage
-- Integrated **Streamlit frontend for interaction**
+## 🔥 Featured Projects
+
+## ⚖️ Bumbiro AI — Constitutional RAG Assistant
+A production-grade AI assistant designed to answer questions grounded in the **Zimbabwe Constitution**.
+
+### Highlights
+- Built **FastAPI + Streamlit + pgvector + LangChain** architecture
+- Automated **PDF → cleaning → chunking → embeddings → vector storage**
+- Added **input/output guardrails + retrieval confidence checks**
+- Integrated **LangSmith tracing & observability**
+- Designed **memory-aware prompt orchestration**
+- Built **streaming + asynchronous response APIs**
+- Focused on **source-backed legal AI reliability**
+- Dockerized and deployed via AWS ECS Express Mode
+
+### Engineering Focus
+`RAG` `Guardrails` `FastAPI` `Vector Search` `LangSmith` `Production AI`
 
 ---
 
-### 🤖 AI Resume Analyzer(in-progress)
-- NLP-powered resume analysis system
-- Tracks **historical improvements across runs**
-- Outputs:
-  - ATS score changes
-  - Keyword coverage gaps
-  - Weak bullet detection
+## 📄 ResumeLens — Multi-Agent Resume Intelligence System
+An advanced **LangGraph-powered AI resume analysis platform** that helps users improve job alignment and ATS performance.
+
+### Highlights
+- Built specialized agents for:
+  - Resume parsing
+  - Job description ingestion
+  - Skill normalization
+  - Gap analysis
+  - ATS scoring
+  - Improvement recommendations
+- Added **historical improvement tracking**
+- Persists previous analyses in **PostgreSQL**
+- Secure **JWT-authenticated FastAPI backend**
+- Full **Streamlit recruiter-style frontend**
+- Designed for **real-world resume optimization workflows**
+- **Docker** containerized and deployed on **Render**
+
+### Engineering Focus
+`LangGraph` `Multi-Agent Systems` `FastAPI` `PostgreSQL` `JWT` `AI Product Engineering`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
 
-### AI / ML
+### AI / LLM Engineering
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-111111?style=for-the-badge)
 
-### Tools
+### Product & Dev Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
 
 ---
 
@@ -81,18 +98,24 @@ I design and build **scalable backend systems powered by AI**, with strong focus
 
 ## 🧠 Current Focus
 
-- Designing **agentic AI systems**
-- Improving **LLM reliability & evaluation**
-- Learning **Docker + AWS deployment workflows**
-- Building **production-grade AI backends**
+I’m currently going deeper into:
+
+- Agentic AI system design
+- Fine-tuning with **LoRA / QLoRA**
+- AI observability & evaluation frameworks
+- AWS + Docker deployment pipelines
+- Production inference and model serving
+- High-reliability RAG architectures
 
 ---
 
-## 🎯 What I'm Looking For
+## 🎯 Open To
 
-- AI Backend / AI Engineer roles (remote/global)
-- Freelance AI system development
-- Collaborations on impactful AI products
+- 🚀 AI Engineer / Agentic AI Engineer roles
+- 🧠 AI Backend / LLM Infrastructure roles
+- 🌍 Remote global opportunities
+- 🤝 Freelance AI product development
+- ⚡ Startup collaborations
 
 ---
 
@@ -103,7 +126,9 @@ I design and build **scalable backend systems powered by AI**, with strong focus
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Engineering Philosophy
 
-> Build systems. Measure them. Improve them.  
-> AI is only valuable when it works reliably in production.
+> Build useful systems.  
+> Trace everything.  
+> Test failure paths.  
+> Ship AI that survives production.
