@@ -1,20 +1,18 @@
 # 👋 Hi, I'm Simbarashe Munatsi
-
-🚀 AI Backend Engineer | FastAPI | RAG Systems | LLM Applications  
+🚀 AI Engineer | Agentic AI Engineer | RAG Systems | LLM Applications  
 💡 I build production-ready AI systems — not just demos
 
 ---
 
 ## ⚡ About Me
 
-I design and build **scalable backend systems powered by AI**, with a focus on:
+I design and build **scalable backend systems powered by AI**, with strong focus on:
 
 - Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
 - LLM integrations & guardrails
 - FastAPI microservices
 - Evaluation pipelines for AI reliability
-
-🧠 Currently transitioning into **AI Engineering**, with strong emphasis on:
 - Production architectures
 - System design for AI systems
 - Real-world deployable solutions
@@ -23,13 +21,13 @@ I design and build **scalable backend systems powered by AI**, with a focus on:
 
 ## 🔥 Featured Work
 
-### 🧠 Production RAG System
-- Built end-to-end RAG pipeline (**LangChain + ChromaDB + OpenAI**)
+### 🧠 Production RAG System - Bumbiro AI
+- Built end-to-end RAG pipeline (**LangChain + pgvector + OpenAI**)
 - Indexed 1,000+ document chunks for semantic retrieval
 - Implemented **RAGAS + DeepEval evaluation pipelines**
 - Added **prompt injection detection & guardrails**
-- Deployed via **FastAPI + Streamlit UI**
-- ⚡ Avg response latency: < 2s
+- Deployed via **AWS ECS Express Mode**
+- ⚡ Avg response latency: < 3s
 
 ---
 
