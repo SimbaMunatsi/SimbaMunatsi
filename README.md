@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Simbarashe Munatsi
+# 👋 Hi, I'm SimbaraShe Munatsi
 
 🚀 **Agentic AI Engineer | AI Engineer | Production RAG Systems**  
 💡 I build **real-world AI products that are reliable, observable, and deployable at scale**
@@ -35,7 +35,7 @@ A production-grade AI assistant designed to answer questions grounded in the **Z
 - Designed **memory-aware prompt orchestration**
 - Built **streaming + asynchronous response APIs**
 - Focused on **source-backed legal AI reliability**
-- Dockerized and deployed via AWS ECS Express Mode
+- Deployed via **Docker with LangSmith observability** for tracing, monitoring, and rapid debugging
 
 ### Engineering Focus
 `RAG` `Guardrails` `FastAPI` `Vector Search` `LangSmith` `Production AI`
